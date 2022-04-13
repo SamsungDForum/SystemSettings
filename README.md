@@ -42,12 +42,12 @@ SystemCommand/ - UDPStreaming sample app root folder
 │
 │
 ├── css/ - styles used in the application
-│   │
+│   ├── SamsungOneUI-400.ttf - font used in application
 │   └── style.css - style for application's template
 │
 ├── js/ - scripts used in the application
 │   │
-│   ├── main.js - main application script
+│   └── main.js - main application script
 │
 ├── config.xml - application's configuration file
 ├── index.html - main document
