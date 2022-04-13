@@ -54,9 +54,9 @@ SystemCommand/ - UDPStreaming sample app root folder
 └── README.md - this file
 ```
 
-## Copyright and License:
+## Copyright and License
 
-**Copyright 2019 Samsung Electronics, Inc.**
+**Copyright 2021 Samsung Electronics, Inc.**
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
